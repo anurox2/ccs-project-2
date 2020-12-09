@@ -1,0 +1,15 @@
+/images
+/.cache
+/.nano
+/.ssh
+/.vscode-server
+/backup
+/criu
+/images
+/.bash_history
+/.cloud-locale-test.skip
+/.gitconfig
+/.profile
+/.python_history
+/.rnd
+/.wget-hsts

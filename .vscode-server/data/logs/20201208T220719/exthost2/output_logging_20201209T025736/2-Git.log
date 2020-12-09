@@ -172,3 +172,81 @@ Open repository: /root
 > git show --textconv :.bash_history
 > git ls-files --stage -- /root/.bash_history
 > git cat-file -s fede86921b143429a1514e065927bf55518442d2
+> git status -z -u
+> git ls-files --stage -- /root/webserver/Dockerfile
+> git ls-files --stage -- /root/.bash_history
+> git cat-file -s d02c276df19734ee18bc3ed59d0c7cf6752ca162
+> git cat-file -s bda4075fbb91b109151e6b9e86a8381f4da881dc
+> git show --textconv :webserver/Dockerfile
+> git show --textconv :.bash_history
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/webserver/Dockerfile
+> git ls-files --stage -- /root/.bash_history
+> git cat-file -s d02c276df19734ee18bc3ed59d0c7cf6752ca162
+> git cat-file -s bda4075fbb91b109151e6b9e86a8381f4da881dc
+> git show --textconv :webserver/Dockerfile
+> git show --textconv :.bash_history
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :.gitconfig
+> git ls-files --stage -- /root/.gitconfig
+> git cat-file -s d52bb7ec8c24cc4b66bb31fd370c510136fbbd7f
+> git check-ignore -v -z --stdin
+> git show --textconv :.gitignore
+> git ls-files --stage -- /root/.gitignore
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /root/backup.zip
+> git show --textconv :.gitignore
+> git ls-files --stage -- /root/.gitignore
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /root/backup.zip
+> git show --textconv :.gitignore
+> git ls-files --stage -- /root/.gitignore
+> git check-ignore -v -z --stdin
+> git show --textconv :.cloud-locale-test.skip
+> git ls-files --stage -- /root/.cloud-locale-test.skip
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :.gitignore
+> git ls-files --stage -- /root/.gitignore
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git ls-files --stage -- /root/webserver/Dockerfile
+> git ls-files --stage -- /root/.gitignore
+> git symbolic-ref --short HEAD
+> git cat-file -s d02c276df19734ee18bc3ed59d0c7cf6752ca162
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git show --textconv :.gitignore
+> git show --textconv :webserver/Dockerfile
+> git config --get commit.template
