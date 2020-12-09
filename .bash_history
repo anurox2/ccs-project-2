@@ -273,3 +273,132 @@ cat t1_lib.c | grep payload
 cat t1_lib.c 
 cat t1_lib.c | head -n 20
 exit
+ls
+cd heartbleed-masstest/
+./ssltest.py 127.0.0.1 -p 12345
+docker ps
+docker inspect a6dabecd38e9 | grep IPA
+./ssltest.py 172.17.0.3 -p 12345
+ls
+ls -la
+ls /
+mv /openss_1_0_2.zip .
+ls
+unzip openss_1_0_2.zip
+apt install unzip
+unzip openss_1_0_2.zip
+ls -la
+cp -r honey_patched/ honey_patched_v2
+ls -la
+rm -rf openssl-OpenSSL_1_0_2-stable/
+ls -la
+mv openss_1_0_2.zip honey_patched_v2/
+cd honey_patched_v2/
+ls
+rm -rf open
+ls -la
+rm -rf openssl/
+unzip openss_1_0_2.zip 
+ls -la
+mv openssl-OpenSSL_1_0_2-stable/ openssl/
+ls
+ls -la
+cp openssl/ssl/d1_both.c .
+cp openssl/ssl/t1_lib.c .
+nano d1_both.c
+nano t1_lib.c 
+nano d1_both.c
+cp openssl/ssl/d1_both.c .
+nano d1_both.c
+nano Dockerfile 
+ls -la
+nano Dockerfile 
+mv openss_1_0_2.zip openssl_1_0_2.zip
+ls -la
+nano Dockerfile 
+docker images
+docker build .
+docker images
+docker run -it ac8913eda0e4 /bin/bash
+docker build .
+nano Dockerfile 
+docker run -it ac8913eda0e4 /bin/bash
+nano Dockerfile 
+docker build .
+docker images
+docker run -it 78fcd2e6803a /bin/bash
+cd ..
+ls -la
+git init
+git add .
+git commit -m "First commit"
+git config --global user.email "dronzaya@windowslive.com"
+git config --global user.name "anurox2"
+git commit -m "First commit"
+git branch -M main
+git remote add origin git@github.com:anurox2/ccs-project-2.git
+git push -u origin main
+ssh-keygen
+cat ~/.ssh/id_rsa.pub 
+ssh -T git@github.com
+cat ~/.ssh/id_rsa.pub 
+git push -u origin main
+ls
+cd honey_patched/
+ls
+cp openssl/ssl/t1_lib.c .
+ls
+nano t1_lib.c
+cd heartbleed-masstest/
+./ssltest.py 172.17.0.2 -p 12345
+docker cp db5115a16a1f:/out.txt .
+docker images
+docker run -it 78fcd2e6803a /bin/bash
+ls -la
+cd honey_patched
+ls
+nano d1_both.c 
+nano t1_lib.c 
+cd ..
+cd honey_patched_v2/
+ls
+rm d1_both.c.save 
+nano d1_both.c
+nano t1_lib.c 
+nano d1_both.c
+nano t1_lib.c 
+ls
+docker ps
+docker images
+docker stop $(docker ps -q)
+docker rmi $(docker images -q)
+docker rm -f $(docker ps -aq)
+docker rmi $(docker images -q)
+docker build .
+cdc heartbleed-masstest/
+ls
+ls -la
+cd heartbleed-masstest/
+ls
+ls -la
+./ssltest.py 127.0.0.1 -p 12345
+./ssltest.py 172.17.0.2 -p 12345
+exit
+docker ps
+docker inspect $(docker ps -q)
+wget 172.17.0.2
+wget 172.17.0.2:80
+wget 172.17.0.2:8080
+wget 127.0.0.1:8080
+exit
+python3
+docker ps
+python3
+wget 172.17.0.3
+wget 172.17.0.2
+cat index.html
+ls -la index.html
+ls -la index.html*
+rm index.html*
+docker ps
+exit

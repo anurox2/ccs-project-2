@@ -1,0 +1,56 @@
+[2020-12-07 22:05:27.934] [exthost] [info] extension host started
+[2020-12-07 22:05:28.598] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-12-07 22:05:28.598] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/bin/e5a624b788d92b8d34d1392e4c4d9789406efe8f/extensions/debug-auto-launch/dist/extension
+[2020-12-07 22:05:28.656] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-12-07 22:05:28.656] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/bin/e5a624b788d92b8d34d1392e4c4d9789406efe8f/extensions/emmet/dist/node/emmetNodeMain
+[2020-12-07 22:05:28.876] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-12-07 22:05:28.877] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/bin/e5a624b788d92b8d34d1392e4c4d9789406efe8f/extensions/git/dist/main
+[2020-12-07 22:05:29.150] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-12-07 22:05:29.151] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/bin/e5a624b788d92b8d34d1392e4c4d9789406efe8f/extensions/merge-conflict/dist/mergeConflictMain
+[2020-12-07 22:05:29.163] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-12-07 22:05:29.163] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/bin/e5a624b788d92b8d34d1392e4c4d9789406efe8f/extensions/search-result/dist/extension.js
+[2020-12-07 22:05:29.734] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-12-07 22:05:29.735] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/bin/e5a624b788d92b8d34d1392e4c4d9789406efe8f/extensions/github/dist/extension.js
+[2020-12-07 22:05:30.091] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2020-12-07 22:05:30.092] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/bin/e5a624b788d92b8d34d1392e4c4d9789406efe8f/extensions/ms-vscode.js-debug/src/extension.js
+[2020-12-07 22:05:30.860] [exthost] [info] eager extensions activated
+[2020-12-07 22:05:59.290] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":false,"extensionId":{"value":"ms-vscode.cpptools","_lower":"ms-vscode.cpptools"},"activationEvent":"onLanguage:c"}
+[2020-12-07 22:05:59.290] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/extensions/ms-vscode.cpptools-1.1.3/dist/main
+[2020-12-07 22:07:25.284] [exthost] [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker {"startup":false,"extensionId":{"value":"ms-azuretools.vscode-docker","_lower":"ms-azuretools.vscode-docker"},"activationEvent":"onLanguage:dockerfile"}
+[2020-12-07 22:07:25.284] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/extensions/ms-azuretools.vscode-docker-1.8.1/main
+[2020-12-07 22:12:19.788] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-12-07 22:12:19.788] [exthost] [error] undefined
+[2020-12-07 22:12:25.767] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-12-07 22:12:25.767] [exthost] [error] undefined
+[2020-12-07 22:12:45.423] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-12-07 22:12:45.423] [exthost] [error] undefined
+[2020-12-07 22:14:01.242] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-12-07 22:14:01.242] [exthost] [error] undefined
+[2020-12-07 22:15:14.463] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-12-07 22:15:14.463] [exthost] [error] undefined
+[2020-12-07 22:15:19.577] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-12-07 22:15:19.577] [exthost] [error] undefined
+[2020-12-07 22:22:23.157] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2020-12-07 22:22:23.158] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/bin/e5a624b788d92b8d34d1392e4c4d9789406efe8f/extensions/configuration-editing/dist/configurationEditingMain
+[2020-12-07 22:22:23.171] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-12-07 22:22:23.171] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/bin/e5a624b788d92b8d34d1392e4c4d9789406efe8f/extensions/json-language-features/client/dist/node/jsonClientMain
+[2020-12-07 22:22:23.235] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-12-07 22:22:23.236] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/bin/e5a624b788d92b8d34d1392e4c4d9789406efe8f/extensions/typescript-language-features/dist/extension
+[2020-12-07 22:22:46.627] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-12-07 22:22:46.627] [exthost] [error] undefined
+[2020-12-07 22:22:47.858] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-12-07 22:22:47.858] [exthost] [error] undefined
+[2020-12-07 22:22:53.970] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-12-07 22:22:53.970] [exthost] [error] undefined
+[2020-12-07 22:23:06.076] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-12-07 22:23:06.077] [exthost] [error] undefined
+[2020-12-07 22:23:54.333] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-12-07 22:23:54.333] [exthost] [error] undefined
+[2020-12-07 22:46:02.033] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-12-07 22:46:02.033] [exthost] [error] undefined
+[2020-12-07 22:47:35.280] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/root/heartbleed-masstest/get-pip.py' is in submodule 'heartbleed-masstest'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2020-12-07 22:47:35.280] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/root/heartbleed-masstest/get-pip.py' is in submodule 'heartbleed-masstest'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2020-12-07 22:47:35.280] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/root/heartbleed-masstest/get-pip.py' is in submodule 'heartbleed-masstest'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2020-12-07 22:47:35.281] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/root/heartbleed-masstest/get-pip.py' is in submodule 'heartbleed-masstest'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2020-12-07 22:47:35.281] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/root/heartbleed-masstest/get-pip.py' is in submodule 'heartbleed-masstest'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2020-12-07 22:47:35.281] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/root/heartbleed-masstest/get-pip.py' is in submodule 'heartbleed-masstest'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}

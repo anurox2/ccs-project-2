@@ -1,0 +1,65 @@
+Looking for git in: git
+Using git 2.7.4 from git
+> git rev-parse --git-dir
+Open repository: /root
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :honey_patched_v2/d1_both.c
+> git ls-files --stage -- /root/honey_patched_v2/d1_both.c
+> git cat-file -s a8f76e8dff96765e665419093456d0016a699a11
+> git show --textconv :honey_patched_v2/d1_both.c
+> git ls-files --stage -- /root/honey_patched_v2/d1_both.c
+> git cat-file -s a8f76e8dff96765e665419093456d0016a699a11
+> git show --textconv :honey_patched_v2/Dockerfile
+> git ls-files --stage -- /root/honey_patched_v2/Dockerfile
+> git cat-file -s e9fb1102d4c53ae026f90c56f2e5572a0d8b52bc
+> git show --textconv :honey_patched_v2/d1_both.c
+> git ls-files --stage -- /root/honey_patched_v2/d1_both.c
+> git cat-file -s a8f76e8dff96765e665419093456d0016a699a11
+> git show --textconv :honey_patched_v2/Dockerfile
+> git ls-files --stage -- /root/honey_patched_v2/Dockerfile
+> git cat-file -s e9fb1102d4c53ae026f90c56f2e5572a0d8b52bc
+> git show --textconv :honey_patched_v2/d1_both.c
+> git ls-files --stage -- /root/honey_patched_v2/d1_both.c
+> git cat-file -s a8f76e8dff96765e665419093456d0016a699a11
+> git show --textconv :docker-compose.yml
+> git ls-files --stage -- /root/docker-compose.yml
+> git cat-file -s b993acd3adf906fb6b7766ccb9182daea0f2d0b5
+> git show --textconv :webserver/Dockerfile
+> git ls-files --stage -- /root/webserver/Dockerfile
+> git cat-file -s bd29eee0d0285bbe5ef4d8cf29c26bccb10b1960
+> git check-ignore -v -z --stdin
+> git show --textconv :honey_patched_v2/d1_both.c
+> git ls-files --stage -- /root/honey_patched_v2/d1_both.c
+> git cat-file -s a8f76e8dff96765e665419093456d0016a699a11
+> git show --textconv :webserver/Dockerfile
+> git ls-files --stage -- /root/webserver/Dockerfile
+> git cat-file -s bd29eee0d0285bbe5ef4d8cf29c26bccb10b1960
+> git show --textconv :honey_patched_v2/Dockerfile
+> git ls-files --stage -- /root/honey_patched_v2/Dockerfile
+> git cat-file -s e9fb1102d4c53ae026f90c56f2e5572a0d8b52bc
+> git show --textconv :honey_patched_v2/d1_both.c
+> git ls-files --stage -- /root/honey_patched_v2/d1_both.c
+> git cat-file -s a8f76e8dff96765e665419093456d0016a699a11
+> git show --textconv :honey_patched_v2/Dockerfile
+> git ls-files --stage -- /root/honey_patched_v2/Dockerfile
+> git cat-file -s e9fb1102d4c53ae026f90c56f2e5572a0d8b52bc
+> git show --textconv :honey_patched_v2/d1_both.c
+> git ls-files --stage -- /root/honey_patched_v2/d1_both.c
+> git cat-file -s a8f76e8dff96765e665419093456d0016a699a11
+> git check-ignore -v -z --stdin
+> git show --textconv :heartbleed-masstest/out.txt
+> git ls-files --stage -- /root/heartbleed-masstest/out.txt
+> git show --textconv :honey_patched_v2/d1_both.c
+> git ls-files --stage -- /root/honey_patched_v2/d1_both.c
+> git cat-file -s a8f76e8dff96765e665419093456d0016a699a11

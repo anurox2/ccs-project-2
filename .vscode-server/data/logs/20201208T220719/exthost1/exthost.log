@@ -1,0 +1,76 @@
+[2020-12-08 22:07:21.514] [exthost] [info] extension host started
+[2020-12-08 22:07:21.804] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":false,"extensionId":{"value":"ms-vscode.cpptools","_lower":"ms-vscode.cpptools"},"activationEvent":"onLanguage:c"}
+[2020-12-08 22:07:21.805] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/extensions/ms-vscode.cpptools-1.1.3/dist/main
+[2020-12-08 22:07:22.041] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-12-08 22:07:22.041] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/bin/e5a624b788d92b8d34d1392e4c4d9789406efe8f/extensions/debug-auto-launch/dist/extension
+[2020-12-08 22:07:22.052] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-12-08 22:07:22.052] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/bin/e5a624b788d92b8d34d1392e4c4d9789406efe8f/extensions/emmet/dist/node/emmetNodeMain
+[2020-12-08 22:07:22.206] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-12-08 22:07:22.207] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/bin/e5a624b788d92b8d34d1392e4c4d9789406efe8f/extensions/git/dist/main
+[2020-12-08 22:07:22.311] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-12-08 22:07:22.312] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/bin/e5a624b788d92b8d34d1392e4c4d9789406efe8f/extensions/merge-conflict/dist/mergeConflictMain
+[2020-12-08 22:07:22.318] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-12-08 22:07:22.319] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/bin/e5a624b788d92b8d34d1392e4c4d9789406efe8f/extensions/search-result/dist/extension.js
+[2020-12-08 22:07:22.557] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-12-08 22:07:22.558] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/bin/e5a624b788d92b8d34d1392e4c4d9789406efe8f/extensions/github/dist/extension.js
+[2020-12-08 22:07:22.733] [exthost] [info] eager extensions activated
+[2020-12-08 22:07:22.953] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2020-12-08 22:07:22.954] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/bin/e5a624b788d92b8d34d1392e4c4d9789406efe8f/extensions/ms-vscode.js-debug/src/extension.js
+[2020-12-08 22:07:25.293] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2020-12-08 22:07:25.293] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2020-12-08 22:07:25.293] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2020-12-08 22:07:25.293] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2020-12-08 22:07:25.293] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2020-12-08 22:07:25.293] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2020-12-08 22:07:25.293] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2020-12-08 22:07:25.293] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2020-12-08 22:07:25.293] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2020-12-08 22:07:25.293] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2020-12-08 22:07:25.293] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2020-12-08 22:07:25.293] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2020-12-08 22:07:25.293] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2020-12-08 22:07:25.293] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2020-12-08 22:07:25.293] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2020-12-08 22:07:25.293] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2020-12-08 22:07:25.293] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2020-12-08 22:07:25.293] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2020-12-08 22:07:25.293] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2020-12-08 22:07:25.293] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2020-12-08 22:07:25.293] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2020-12-08 22:07:25.293] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2020-12-08 22:07:25.293] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2020-12-08 22:07:25.294] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2020-12-08 22:07:25.294] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2020-12-08 22:07:25.294] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2020-12-08 22:07:25.294] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2020-12-08 22:07:25.294] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2020-12-08 22:07:25.294] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2020-12-08 22:07:25.294] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2020-12-08 22:07:25.294] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2020-12-08 22:07:25.294] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2020-12-08 22:07:25.294] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2020-12-08 22:07:25.294] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2020-12-08 22:07:25.294] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2020-12-08 22:07:25.294] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2020-12-08 22:07:25.294] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2020-12-08 22:07:25.294] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2020-12-08 22:07:30.694] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2020-12-08 22:07:30.694] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/bin/e5a624b788d92b8d34d1392e4c4d9789406efe8f/extensions/configuration-editing/dist/configurationEditingMain
+[2020-12-08 22:07:30.700] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-12-08 22:07:30.700] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/bin/e5a624b788d92b8d34d1392e4c4d9789406efe8f/extensions/json-language-features/client/dist/node/jsonClientMain
+[2020-12-08 22:07:30.865] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-12-08 22:07:30.865] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/bin/e5a624b788d92b8d34d1392e4c4d9789406efe8f/extensions/typescript-language-features/dist/extension
+[2020-12-08 22:08:30.963] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-12-08 22:08:30.963] [exthost] [error] undefined
+[2020-12-08 22:08:38.844] [exthost] [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker {"startup":false,"extensionId":{"value":"ms-azuretools.vscode-docker","_lower":"ms-azuretools.vscode-docker"},"activationEvent":"onView:dockerContainers"}
+[2020-12-08 22:08:38.845] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/extensions/ms-azuretools.vscode-docker-1.8.1/main
+[2020-12-08 22:16:05.539] [exthost] [info] ExtensionService#_doActivateExtension vscode.grunt {"startup":false,"extensionId":{"value":"vscode.grunt","_lower":"vscode.grunt"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-12-08 22:16:05.539] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/bin/e5a624b788d92b8d34d1392e4c4d9789406efe8f/extensions/grunt/dist/main
+[2020-12-08 22:16:05.551] [exthost] [info] ExtensionService#_doActivateExtension vscode.gulp {"startup":false,"extensionId":{"value":"vscode.gulp","_lower":"vscode.gulp"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-12-08 22:16:05.551] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/bin/e5a624b788d92b8d34d1392e4c4d9789406efe8f/extensions/gulp/dist/main
+[2020-12-08 22:16:05.558] [exthost] [info] ExtensionService#_doActivateExtension vscode.jake {"startup":false,"extensionId":{"value":"vscode.jake","_lower":"vscode.jake"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-12-08 22:16:05.558] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/bin/e5a624b788d92b8d34d1392e4c4d9789406efe8f/extensions/jake/dist/main
+[2020-12-08 22:16:05.566] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-12-08 22:16:05.566] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/bin/e5a624b788d92b8d34d1392e4c4d9789406efe8f/extensions/npm/dist/npmMain
+[2020-12-08 22:56:07.973] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2020-12-08 22:56:07.974] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/bin/e5a624b788d92b8d34d1392e4c4d9789406efe8f/extensions/extension-editing/dist/extensionEditingMain

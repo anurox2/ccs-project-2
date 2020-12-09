@@ -1,0 +1,174 @@
+Looking for git in: git
+Using git 2.7.4 from git
+> git rev-parse --git-dir
+Open repository: /root
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :webserver/Dockerfile
+> git show --textconv :proxy-server.py
+> git ls-files --stage -- /root/webserver/Dockerfile
+> git ls-files --stage -- /root/proxy-server.py
+> git cat-file -s bd29eee0d0285bbe5ef4d8cf29c26bccb10b1960
+> git cat-file -s 78547559860b6cae41d6d5f31eec16fdd660badf
+> git ls-files --stage -- /root/webserver/Dockerfile
+> git ls-files --stage -- /root/proxy-server.py
+> git cat-file -s bd29eee0d0285bbe5ef4d8cf29c26bccb10b1960
+> git cat-file -s 78547559860b6cae41d6d5f31eec16fdd660badf
+> git show --textconv :webserver/Dockerfile
+> git show --textconv :proxy-server.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /root/proxy-server.py
+> git show --textconv :proxy-server.py
+> git ls-files --stage -- /root/proxy-server.py
+> git cat-file -s 78547559860b6cae41d6d5f31eec16fdd660badf
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /root/proxy-server.py
+> git show --textconv :proxy.log
+> git ls-files --stage -- /root/proxy.log
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :proxy-server.py
+> git ls-files --stage -- /root/proxy-server.py
+> git cat-file -s 78547559860b6cae41d6d5f31eec16fdd660badf
+> git check-ignore -v -z --stdin
+> git show --textconv :proxy_041650_12092020.log
+> git ls-files --stage -- /root/proxy_041650_12092020.log
+> git show --textconv :proxy_041834_12092020.log
+> git ls-files --stage -- /root/proxy_041834_12092020.log
+> git show --textconv :proxy_041909_12092020.log
+> git ls-files --stage -- /root/proxy_041909_12092020.log
+> git show --textconv :proxy_041930_12092020.log
+> git ls-files --stage -- /root/proxy_041930_12092020.log
+> git show --textconv :proxy_042359_12092020.log
+> git ls-files --stage -- /root/proxy_042359_12092020.log
+> git show --textconv :proxy_042505_12092020.log
+> git ls-files --stage -- /root/proxy_042505_12092020.log
+> git show --textconv :proxy_042439_12092020.log
+> git ls-files --stage -- /root/proxy_042439_12092020.log
+> git show --textconv :proxy_042505_12092020.log
+> git ls-files --stage -- /root/proxy_042505_12092020.log
+> git show --textconv :proxy_042613_12092020.log
+> git ls-files --stage -- /root/proxy_042613_12092020.log
+> git show --textconv :proxy_042629_12092020.log
+> git ls-files --stage -- /root/proxy_042629_12092020.log
+> git show --textconv :proxy_042743_12092020.log
+> git ls-files --stage -- /root/proxy_042743_12092020.log
+> git show --textconv :proxy_042901_12092020.log
+> git ls-files --stage -- /root/proxy_042901_12092020.log
+> git show --textconv :proxy_041909_12092020.log
+> git ls-files --stage -- /root/proxy_041909_12092020.log
+> git show --textconv :proxy-server.py
+> git ls-files --stage -- /root/proxy-server.py
+> git cat-file -s 78547559860b6cae41d6d5f31eec16fdd660badf
+> git check-ignore -v -z --stdin
+> git show --textconv :proxy_044827_12092020.log
+> git ls-files --stage -- /root/proxy_044827_12092020.log
+> git show --textconv :proxy-server.py
+> git ls-files --stage -- /root/proxy-server.py
+> git cat-file -s 78547559860b6cae41d6d5f31eec16fdd660badf
+> git show --textconv :proxy-server.py
+> git ls-files --stage -- /root/proxy-server.py
+> git cat-file -s 78547559860b6cae41d6d5f31eec16fdd660badf
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /root/proxy-server.py
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n41 -- /root/proxy-server.py
+> git show --textconv :proxy-server.py
+> git ls-files --stage -- /root/proxy-server.py
+> git cat-file -s 78547559860b6cae41d6d5f31eec16fdd660badf
+> git show --textconv :webserver/Dockerfile
+> git ls-files --stage -- /root/webserver/Dockerfile
+> git cat-file -s bd29eee0d0285bbe5ef4d8cf29c26bccb10b1960
+> git show --textconv :docker-compose.yml
+> git ls-files --stage -- /root/docker-compose.yml
+> git cat-file -s b993acd3adf906fb6b7766ccb9182daea0f2d0b5
+> git show --textconv :webserver/Dockerfile
+> git ls-files --stage -- /root/webserver/Dockerfile
+> git cat-file -s bd29eee0d0285bbe5ef4d8cf29c26bccb10b1960
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :proxy-server/proxy_053340_12092020.log
+> git ls-files --stage -- /root/proxy-server/proxy_053340_12092020.log
+> git check-ignore -v -z --stdin
+> git show --textconv :proxy-server/proxy_053413_12092020.log
+> git ls-files --stage -- /root/proxy-server/proxy_053413_12092020.log
+> git check-ignore -v -z --stdin
+> git show --textconv :proxy-server/proxy_053340_12092020.log
+> git ls-files --stage -- /root/proxy-server/proxy_053340_12092020.log
+> git show --textconv :proxy-server/proxy_053413_12092020.log
+> git ls-files --stage -- /root/proxy-server/proxy_053413_12092020.log
+> git show --textconv :proxy-server/proxy.log
+> git ls-files --stage -- /root/proxy-server/proxy.log
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :proxy-server/proxy_053433_12092020.log
+> git ls-files --stage -- /root/proxy-server/proxy_053433_12092020.log
+> git show --textconv :proxy-server/proxy_053340_12092020.log
+> git ls-files --stage -- /root/proxy-server/proxy_053340_12092020.log
+> git show --textconv :proxy-server.py
+> git ls-files --stage -- /root/proxy-server.py
+> git cat-file -s 78547559860b6cae41d6d5f31eec16fdd660badf
+> git check-ignore -v -z --stdin
+> git show --textconv :proxy-server/proxy_053726_12092020.log
+> git ls-files --stage -- /root/proxy-server/proxy_053726_12092020.log
+> git show --textconv :proxy-server/proxy_053433_12092020.log
+> git ls-files --stage -- /root/proxy-server/proxy_053433_12092020.log
+> git show --textconv :proxy-server/proxy_053413_12092020.log
+> git ls-files --stage -- /root/proxy-server/proxy_053413_12092020.log
+> git show --textconv :proxy-server/proxy_053340_12092020.log
+> git ls-files --stage -- /root/proxy-server/proxy_053340_12092020.log
+> git show --textconv :proxy-server.py
+> git ls-files --stage -- /root/proxy-server.py
+> git cat-file -s 78547559860b6cae41d6d5f31eec16fdd660badf
+> git show --textconv :proxy-server/proxy.log
+> git ls-files --stage -- /root/proxy-server/proxy.log
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :proxy-server.py
+> git ls-files --stage -- /root/proxy-server.py
+> git cat-file -s 78547559860b6cae41d6d5f31eec16fdd660badf
+> git show --textconv :proxy_044827_12092020.log
+> git ls-files --stage -- /root/proxy_044827_12092020.log
+> git show --textconv :proxy-server.py
+> git ls-files --stage -- /root/proxy-server.py
+> git cat-file -s 78547559860b6cae41d6d5f31eec16fdd660badf
+> git show --textconv :key.pem
+> git ls-files --stage -- /root/key.pem
+> git cat-file -s 13e877fc99cfd8a32d2f380969777b0d88c9619f
+> git show --textconv :proxy-server.py
+> git ls-files --stage -- /root/proxy-server.py
+> git cat-file -s 78547559860b6cae41d6d5f31eec16fdd660badf
+> git show --textconv :index.html
+> git ls-files --stage -- /root/index.html
+> git show --textconv :proxy-server.py
+> git ls-files --stage -- /root/proxy-server.py
+> git cat-file -s 78547559860b6cae41d6d5f31eec16fdd660badf
+> git show --textconv :cert.pem
+> git ls-files --stage -- /root/cert.pem
+> git cat-file -s 2e93c7873b233369ccaeb9084d0dcff1092e7d96
+> git show --textconv :proxy-server.py
+> git ls-files --stage -- /root/proxy-server.py
+> git cat-file -s 78547559860b6cae41d6d5f31eec16fdd660badf
+> git show --textconv :proxy.log
+> git ls-files --stage -- /root/proxy.log
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :proxy-server.py
+> git ls-files --stage -- /root/proxy-server.py
+> git cat-file -s 78547559860b6cae41d6d5f31eec16fdd660badf
+> git show --textconv :test.c
+> git ls-files --stage -- /root/test.c
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :proxy-server.py
+> git ls-files --stage -- /root/proxy-server.py
+> git cat-file -s 78547559860b6cae41d6d5f31eec16fdd660badf
+> git show --textconv :.bash_history
+> git ls-files --stage -- /root/.bash_history
+> git cat-file -s fede86921b143429a1514e065927bf55518442d2

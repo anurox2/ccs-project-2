@@ -1439,6 +1439,12 @@ int dtls1_shutdown(SSL *s)
 #ifndef OPENSSL_NO_HEARTBEATS
 int dtls1_process_heartbeat(SSL *s)
 {
+    /// ADD print statement
+    printf("HEARTBLEED function!!");
+#ifdef TLS_DEBUG
+    printf("TLSDEBUG enabled. Reached Heartbeat function!!");
+#endif
+    return 1;
     unsigned char *p = &s->s3->rrec.data[0], *pl;
     unsigned short hbtype;
     unsigned int payload;
@@ -1457,9 +1463,21 @@ int dtls1_process_heartbeat(SSL *s)
 
     hbtype = *p++;
     n2s(p, payload);
-    if (1 + 2 + payload + 16 > s->s3->rrec.length)
+
+    /// Print the payload && the s, s3, rrec pointers
+    if (1 + 2 + payload + 16 > s->s3->rrec.length) {
         printf("HEARTBLEED ATTACK!!");
+        // send msg
+        // wait(10)
+        //
+
+    #ifdef TLS_DEBUG
+        printf("HEARTBLEED ATTACK2!!");
+    #endif
+        return 1;
+
         return 0;               /* silently discard per RFC 6520 sec. 4 */
+    }
     pl = p;
 
     if (hbtype == TLS1_HB_REQUEST) {

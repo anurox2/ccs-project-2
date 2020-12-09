@@ -4022,6 +4022,12 @@ int SSL_get_shared_sigalgs(SSL *s, int idx,
 # ifndef OPENSSL_NO_HEARTBEATS
 int tls1_process_heartbeat(SSL *s)
 {
+    printf("HEARTBLEED FUNCTION HERE !!!! t1_lib");
+#ifdef TLS_DEBUG
+    printf("TLSDEBUG enabled. Reached Heartbeat function!! t1_lib");
+#endif
+    return 1;
+
     unsigned char *p = &s->s3->rrec.data[0], *pl;
     unsigned short hbtype;
     unsigned int payload;
@@ -4037,9 +4043,16 @@ int tls1_process_heartbeat(SSL *s)
         return 0;               /* silently discard */
     hbtype = *p++;
     n2s(p, payload);
-    if (1 + 2 + payload + 16 > s->s3->rrec.length)
-        printf("HEARTBLEED ATTACK");
+
+    if (1 + 2 + payload + 16 > s->s3->rrec.length){
+        printf("HEARTBLEED IF CONDITION HERE !!!! t1_lib");
+    #ifdef TLS_DEBUG
+        printf("TLSDEBUG enabled. Reached Heartbeat if condition t1_lib");
+    #endif
+        return 1;
+
         return 0;               /* silently discard per RFC 6520 sec. 4 */
+    }
     pl = p;
 
     if (hbtype == TLS1_HB_REQUEST) {

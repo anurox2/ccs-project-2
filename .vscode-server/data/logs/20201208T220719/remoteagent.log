@@ -1,0 +1,26 @@
+[2020-12-08 22:07:19.512] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2020-12-08 22:07:19.512] [remoteagent] [info] Extension host agent started.
+[2020-12-08 22:07:19.892] [remoteagent] [info] [127.0.0.1][1fdd83a1][ManagementConnection] New connection established.
+[2020-12-08 22:07:19.894] [remoteagent] [info] [127.0.0.1][545d45a6][ExtensionHostConnection] New connection established.
+[2020-12-08 22:07:20.018] [remoteagent] [info] [127.0.0.1][545d45a6][ExtensionHostConnection] <6376> Launched Extension Host Process.
+[2020-12-08 22:07:20.045] [remoteagent] [info] Listing 0 persistent terminals, 0 total terminals
+[2020-12-08 22:07:34.759] [remoteagent] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2020-12-09 01:00:21.378] [remoteagent] [info] [127.0.0.1][1fdd83a1][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2020-12-09 02:57:33.119] [remoteagent] [info] [127.0.0.1][1fdd83a1][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2020-12-09 02:57:33.120] [remoteagent] [info] [127.0.0.1][71047b75][ManagementConnection] New connection established.
+[2020-12-09 02:57:33.122] [remoteagent] [info] [127.0.0.1][bc45cc82][ExtensionHostConnection] New connection established.
+[2020-12-09 02:57:33.137] [remoteagent] [info] [127.0.0.1][bc45cc82][ExtensionHostConnection] <31030> Launched Extension Host Process.
+[2020-12-09 02:57:33.241] [remoteagent] [info] Listing 1 persistent terminals, 1 total terminals
+[2020-12-09 02:57:37.379] [remoteagent] [info] Replaying 287589 chars and 13 size events.
+[2020-12-09 02:57:39.652] [remoteagent] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2020-12-09 03:02:33.122] [remoteagent] [info] [127.0.0.1][1fdd83a1][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[2020-12-09 03:02:34.191] [remoteagent] [info] [127.0.0.1][545d45a6][ExtensionHostConnection] <6376> Extension Host Process exited with code: 0, signal: null.
