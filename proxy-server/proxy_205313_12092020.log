@@ -1,0 +1,4 @@
+root - INFO - --- [INFO] image directory exists
+root - INFO - --- [INFO] Target Webserver docker image found. Starting it.
+root - INFO - --- [INFO] Target webserver container has been started. Container_ID: dc27a60b5e5f
+root - INFO - --- [INFO] IP address of container dc27a60b5e5f located. Storing it

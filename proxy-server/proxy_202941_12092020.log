@@ -1,0 +1,96 @@
+root - INFO - --- [INFO] image directory exists
+root - INFO - --- [INFO] Target Webserver is running. Starting reverse proxy module.
+root - INFO - --- [INFO] IP address of container 0a3bafeafacf located. Storing it
+root - INFO - --- [INFO] Initializing socket
+root - INFO - --- [INFO] Listening on port :9000
+root - INFO - --- [INFO] Proxy server started
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - docker checkpoint create --checkpoint-dir=/root/images webserver-main 14231_decoy --leave-running=true
+root - INFO - --- [INFO] Checkpoint created correctly: 14231_decoy
+root - INFO - --- [INFO] Creating decoy container
+root - INFO - --- [INFO] Decoy container creation successful. Attempting to start it.
+root - INFO - --- [INFO] Decoy container: webserver_202941_14231 successfully started. Copy new HTML page inside.
+root - INFO - --- [SUCCESS] New HTML page copied inside.
+root - INFO - --- [INFO] IP address of container 3c25c5191b40 located. Storing it
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - docker checkpoint create --checkpoint-dir=/root/images webserver-main 55609_decoy --leave-running=true
+root - INFO - --- [INFO] Checkpoint created correctly: 55609_decoy
+root - INFO - --- [INFO] Creating decoy container
+root - INFO - --- [INFO] Decoy container creation successful. Attempting to start it.
+root - INFO - --- [INFO] Decoy container: webserver_202941_55609 successfully started. Copy new HTML page inside.
+root - INFO - --- [SUCCESS] New HTML page copied inside.
+root - INFO - --- [INFO] IP address of container 24a36de6b156 located. Storing it
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - docker checkpoint create --checkpoint-dir=/root/images webserver-main 4358_decoy --leave-running=true
+root - INFO - --- [INFO] Checkpoint created correctly: 4358_decoy
+root - INFO - --- [INFO] Creating decoy container
+root - INFO - --- [INFO] Decoy container creation successful. Attempting to start it.
+root - INFO - --- [INFO] Decoy container: webserver_202941_4358 successfully started. Copy new HTML page inside.
+root - INFO - --- [SUCCESS] New HTML page copied inside.
+root - INFO - --- [INFO] IP address of container 9b17f64e1537 located. Storing it
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - docker checkpoint create --checkpoint-dir=/root/images webserver-main 96088_decoy --leave-running=true
+root - INFO - --- [INFO] Checkpoint created correctly: 96088_decoy
+root - INFO - --- [INFO] Creating decoy container
+root - INFO - --- [INFO] Decoy container creation successful. Attempting to start it.
+root - INFO - --- [INFO] Decoy container: webserver_202941_96088 successfully started. Copy new HTML page inside.
+root - INFO - --- [SUCCESS] New HTML page copied inside.
+root - INFO - --- [INFO] IP address of container 07dbd5b85d86 located. Storing it
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - docker checkpoint create --checkpoint-dir=/root/images webserver-main 19722_decoy --leave-running=true
+root - INFO - --- [INFO] Checkpoint created correctly: 19722_decoy
+root - INFO - --- [INFO] Creating decoy container
+root - INFO - --- [INFO] Decoy container creation successful. Attempting to start it.
+root - INFO - --- [INFO] Decoy container: webserver_202941_19722 successfully started. Copy new HTML page inside.
+root - INFO - --- [SUCCESS] New HTML page copied inside.
+root - INFO - --- [INFO] IP address of container 864ba015c553 located. Storing it
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - docker checkpoint create --checkpoint-dir=/root/images webserver-main 81507_decoy --leave-running=true
+root - INFO - --- [INFO] Checkpoint created correctly: 81507_decoy
+root - INFO - --- [INFO] Creating decoy container
+root - INFO - --- [INFO] Decoy container creation successful. Attempting to start it.
+root - INFO - --- [INFO] Decoy container: webserver_202941_81507 successfully started. Copy new HTML page inside.
+root - INFO - --- [SUCCESS] New HTML page copied inside.
+root - INFO - --- [INFO] IP address of container e918241fcd36 located. Storing it
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - docker checkpoint create --checkpoint-dir=/root/images webserver-main 84916_decoy --leave-running=true
+root - INFO - --- [INFO] Checkpoint created correctly: 84916_decoy
+root - INFO - --- [INFO] Creating decoy container
+root - INFO - --- [INFO] Decoy container creation successful. Attempting to start it.
+root - INFO - --- [INFO] Decoy container: webserver_202941_84916 successfully started. Copy new HTML page inside.
+root - INFO - --- [SUCCESS] New HTML page copied inside.
+root - INFO - --- [INFO] IP address of container b006c7b7959e located. Storing it
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - docker checkpoint create --checkpoint-dir=/root/images webserver-main 1638_decoy --leave-running=true
+root - INFO - --- [INFO] Checkpoint created correctly: 1638_decoy
+root - INFO - --- [INFO] Creating decoy container
+root - INFO - --- [INFO] Decoy container creation successful. Attempting to start it.
+root - INFO - --- [INFO] Decoy container: webserver_202941_1638 successfully started. Copy new HTML page inside.
+root - INFO - --- [SUCCESS] New HTML page copied inside.
+root - INFO - --- [INFO] IP address of container 134a68fe742b located. Storing it
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - docker checkpoint create --checkpoint-dir=/root/images webserver-main 48161_decoy --leave-running=true
+root - INFO - --- [INFO] Checkpoint created correctly: 48161_decoy
+root - INFO - --- [INFO] Creating decoy container
+root - INFO - --- [INFO] Decoy container creation successful. Attempting to start it.
+root - INFO - --- [INFO] Decoy container: webserver_202941_48161 successfully started. Copy new HTML page inside.
+root - INFO - --- [SUCCESS] New HTML page copied inside.
+root - INFO - --- [INFO] IP address of container dcfc9c63fced located. Storing it
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - docker checkpoint create --checkpoint-dir=/root/images webserver-main 22060_decoy --leave-running=true
+root - INFO - --- [INFO] Checkpoint created correctly: 22060_decoy
+root - INFO - --- [INFO] Creating decoy container
+root - INFO - --- [INFO] Decoy container creation successful. Attempting to start it.
+root - INFO - --- [INFO] Decoy container: webserver_202941_22060 successfully started. Copy new HTML page inside.
+root - INFO - --- [SUCCESS] New HTML page copied inside.
+root - INFO - --- [INFO] IP address of container a55616c038dd located. Storing it

@@ -1,0 +1,2076 @@
+root - INFO - --- [INFO] image directory exists
+root - INFO - --- [INFO] Target Webserver is running. Starting reverse proxy module.
+root - INFO - --- [INFO] IP address of container dc27a60b5e5f located. Storing it
+root - INFO - --- [INFO] Decoy isn't running if attack detected. Proxy will spin up decoy
+root - INFO - --- [INFO] Initializing socket
+root - INFO - --- [INFO] Listening on port :9000
+root - INFO - --- [INFO] Proxy server started
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - docker checkpoint create --checkpoint-dir=/root/images webserver-main 52808_decoy --leave-running=true
+root - INFO - --- [INFO] Checkpoint created correctly: 52808_decoy
+root - INFO - --- [INFO] Creating decoy container
+root - INFO - --- [INFO] Decoy container creation successful. Attempting to start it.
+root - INFO - --- [INFO] Decoy container: webserver_205412_52808 successfully started. Copy new HTML page inside.
+root - INFO - --- [SUCCESS] New HTML page copied inside.
+root - INFO - --- [INFO] IP address of container 316860d8252e located. Storing it
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
+root - INFO - --- [ATTACK] Malicious attack attempt. Redirecting connection to decoy container.
+root - INFO - --- [INFO] Starting docker checkpoint and restore script
